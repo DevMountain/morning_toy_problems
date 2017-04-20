@@ -1,4 +1,4 @@
-DM18-Toy-Problems
+<h1>DM18-Toy-Problems</h1>
 
 This repository is for the storage of and reference to toy problems for use in DevMountain's morning toy problem workshops.
 
@@ -8,7 +8,7 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 
 (The repl.it links below monitor versions via the number at the end of the URL. If you make changes to any of the below, please update the provided URL to the most current version of the problem.)
 
-Week 1
+<h1>Week 1</h1>
 
 Monday:
 
