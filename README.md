@@ -146,8 +146,8 @@ Monday:
 Beginner Toy Problem:
 Solution:
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Sort an Array by Value and Index (7): https://repl.it/HS6E/0
+Solution: https://repl.it/HSWH/12
 
 Tuesday:
 Beginner Toy Problem:
