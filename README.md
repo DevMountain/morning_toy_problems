@@ -52,93 +52,102 @@ Solution: https://repl.it/GQ7H/1
 
 <h1>Week 2</h1>
 
-Monday:
-Beginner Toy Problem: Find the nth number https://repl.it/HQr2/0
-Solution: https://repl.it/G8dd/3
+Monday:<br/>
+Beginner Toy Problem: Find the nth number https://repl.it/HQr2/0<br/>
+Solution: https://repl.it/G8dd/3<br/>
 
-Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0
-Solution: https://repl.it/GQ7H/1
+Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0<br/>
+Solution: https://repl.it/GQ7H/1<br/>
 
-Tuesday:
-Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0
-Solution: https://repl.it/GQe8/0
+Tuesday:<br/>
+Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0<br/>
+Solution: https://repl.it/GQe8/0<br/>
 
-Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1
-Solution:https://repl.it/G88l/0
+Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1<br/>
+Solution:https://repl.it/G88l/0<br/>
 
-Wednesday:
-Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1
-Solution: https://repl.it/GQcF/1
+Wednesday:<br/>
+Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1<br/>
+Solution: https://repl.it/GQcF/1<br/>
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem:<br/>
+Solution:<br/>
 
-Thursday:
-Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1
-Solution: https://repl.it/GQcu/1
+Thursday:<br/>
+Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1<br/>
+Solution: https://repl.it/GQcu/1<br/>
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem:<br/>
+Solution:<br/>
 
 <h1>Week 3</h1>
 
-Monday:
-Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0
-Solution: https://repl.it/GQcC/1
+Monday:<br/>
+Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0<br/>
+Solution: https://repl.it/GQcC/1<br/>
 
-Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3
-Solution: https://repl.it/GknA/1
+Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br/>
+CodeWars URL: <br/>
+Solution: https://repl.it/GknA/1<br/>
 
-Tuesday:
-Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0
-Solution: https://repl.it/GQbf/2
+Tuesday:<br/>
+Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br/>
+Solution: https://repl.it/GQbf/2<br/>
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem:<br/>
+CodeWars URL: <br/>
+Solution:<br/>
 
-Wednesday:
-Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0
-Solution: https://repl.it/GQal/1
+Wednesday:<br/>
+Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0<br/>
+Solution: https://repl.it/GQal/1<br/>
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem:<br/>
+CodeWars URL: <br/>
+Solution:<br/>
 
-Thursday:
-Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1
-Solution: https://repl.it/HO2a/2
+Thursday:<br/>
+Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
+Solution: https://repl.it/HO2a/2<br/>
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem:<br/>
+CodeWars URL: <br/>
+Solution:<br/>
 
 <h1>Week 4</h1>
 
-Monday:
-Beginner Toy Problem:
+**Monday:** <br />
+Beginner Toy Problem: <br />
 Solution:
 
-Advanced Toy Problem:
+Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
+CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
+Solution: https://repl.it/
+
+**Tuesday:** <br />
+Beginner Toy Problem: <br />
 Solution:
 
-Tuesday:
-Beginner Toy Problem:
+Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
+CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
+Solution: https://repl.it/
+
+**Wednesday:** <br />
+Beginner Toy Problem: <br />
 Solution:
 
-Advanced Toy Problem:
+Advanced Toy Problem: Caesar Cipher Helper https://repl.it/HOTZ<br />
+CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
+Solution: https://repl.it/
+
+**Thursday:** <br />
+Beginner Toy Problem: <br />
 Solution:
 
-Wednesday:
-Beginner Toy Problem:
-Solution:
+Advanced Toy Problem: Double Cola https://repl.it/HOU1/1<br />
+CodeWars URL: https://www.codewars.com/kata/double-cola<br/>
+Solution: https://repl.it/
 
-Advanced Toy Problem:
-Solution:
-
-Thursday:
-Beginner Toy Problem:
-Solution:
-
-Advanced Toy Problem:
-Solution:
 
 <h1>Week 5</h1>
 
