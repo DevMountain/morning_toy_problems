@@ -97,7 +97,7 @@ Solution: https://repl.it/HU6U/2<br/>
 
 **Wednesday:**<br/>
 Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0<br/>
-CodeWars URL: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
+CodeWars URL: https://www.codewars.com/kata/remove-the-minimum<br/>
 Solution: https://repl.it/GQal/1<br/>
 
 Advanced Toy Problem: Human Readable Time (5) https://repl.it/HU65/1<br/>
@@ -106,7 +106,7 @@ Solution: https://repl.it/HU6h/2<br/>
 
 **Thursday:**<br/>
 Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
-CodeWars URL: <br/>
+CodeWars URL: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
 Solution: https://repl.it/HO2a/2<br/>
 
 Advanced Toy Problem: Valid Parentheses (5) https://repl.it/HU6u/1 <br/>
