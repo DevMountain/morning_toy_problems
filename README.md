@@ -14,8 +14,6 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1
 Solution: https://repl.it/GQh4/1
 
-
-
 **Tuesday:**<br/>
 Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1
 Solution: https://repl.it/GQiG/1
@@ -77,16 +75,17 @@ Solution:<br/>
 <h1>Week 3</h1>
 
 **Monday:**<br/>
-Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0<br/>
-Solution: https://repl.it/GQcC/1<br/>
+Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br/>
+Solution: https://repl.it/GQbf/2<br/>
 
 Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br/>
 CodeWars URL: https://www.codewars.com/kata/simple-pig-latin<br/>
 Solution: https://repl.it/GknA/1<br/>
 
 **Tuesday:**<br/
-Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br/>
-Solution: https://repl.it/GQbf/2<br/>
+Beginner Toy Problem: Square Each Number (7) https://repl.it/HX9U/1<br/>
+CodeWars URL: https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript<br/>
+Solution: https://repl.it/HX9o/0<br/>
 
 Advanced Toy Problem: 30 Character Countdown (5) https://repl.it/HU6J/1<br/>
 CodeWars URL: https://www.codewars.com/kata/one-line-task-count-down-i<br/>
