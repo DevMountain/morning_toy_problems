@@ -8,6 +8,7 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 
 (The repl.it links below monitor versions via the number at the end of the URL. If you make changes to any of the below, please update the provided URL to the most current version of the problem.)
 
+
 <h1>Week 1</h1>
 
 **Monday:**</br>
@@ -42,6 +43,7 @@ Solution: https://repl.it/GQgA/2
 Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0
 Solution: https://repl.it/GQ7H/1
 
+
 <h1>Week 2</h1>
 
 **Monday:**<br/>
@@ -72,40 +74,45 @@ Solution: https://repl.it/GQcu/1<br/>
 Advanced Toy Problem:<br/>
 Solution:<br/>
 
+
 <h1>Week 3</h1>
 
 **Monday:**<br/>
 Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br/>
+CodeWars URL: <br/>
 Solution: https://repl.it/GQbf/2<br/>
 
 Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br/>
 CodeWars URL: https://www.codewars.com/kata/simple-pig-latin<br/>
 Solution: https://repl.it/GknA/1<br/>
 
-**Tuesday:**<br/
+**Tuesday:**<br/>
 Beginner Toy Problem: Square Each Number (7) https://repl.it/HX9U/1<br/>
-CodeWars URL: https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript<br/>
+CodeWars URL: https://www.codewars.com/kata/square-every-digit<br/>
 Solution: https://repl.it/HX9o/0<br/>
 
 Advanced Toy Problem: 30 Character Countdown (5) https://repl.it/HU6J/1<br/>
 CodeWars URL: https://www.codewars.com/kata/one-line-task-count-down-i<br/>
-Solution: https://repl.it/HU6U/1<br/>
+Solution: https://repl.it/HU6U/2<br/>
 
 **Wednesday:**<br/>
 Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0<br/>
+CodeWars URL: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
 Solution: https://repl.it/GQal/1<br/>
 
 Advanced Toy Problem: Human Readable Time (5) https://repl.it/HU65/1<br/>
 CodeWars URL: https://www.codewars.com/kata/human-readable-time<br/>
-Solution: https://repl.it/HU6h/1<br/>
+Solution: https://repl.it/HU6h/2<br/>
 
 **Thursday:**<br/>
 Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
+CodeWars URL: <br/>
 Solution: https://repl.it/HO2a/2<br/>
 
 Advanced Toy Problem: Valid Parentheses (5) https://repl.it/HU6u/1 <br/>
 CodeWars URL: https://www.codewars.com/kata/valid-parentheses<br/>
-Solution: https://repl.it/HU77/1<br/>
+Solution: https://repl.it/HU77/2<br/>
+
 
 <h1>Week 4</h1>
 
