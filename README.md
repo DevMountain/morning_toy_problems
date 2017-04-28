@@ -121,8 +121,8 @@ Beginner Toy Problem: Complimentary DNA (7) https://repl.it/HU9s/1<br/>
 CodeWars URL: https://www.codewars.com/kata/complementary-dna <br/>
 Solution: https://repl.it/HUaE/1<br/>
 
-Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
-CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
+Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br />
+CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
 Solution: https://repl.it/<br/>
 
 **Tuesday:** <br />
@@ -144,12 +144,13 @@ CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
 Solution: https://repl.it/
 
 **Thursday:** <br />
-Beginner Toy Problem: <br />
-Solution:
+Beginner Toy Problem: Remove the Dubstep https://repl.it/H4lJ/0<br />
+CodeWars URL: https://www.codewars.com/kata/dubstep <br/>
+Solution: https://repl.it/H4lY/1
 
-Advanced Toy Problem: Double Cola https://repl.it/HOU1/1<br />
+Advanced Toy Problem: Double Cola https://repl.it/H5SJ/0<br />
 CodeWars URL: https://www.codewars.com/kata/double-cola<br/>
-Solution: https://repl.it/
+Solution: https://repl.it/H5SB/1
 
 
 <h1>Week 5</h1>
@@ -196,8 +197,9 @@ Tuesday:
 Beginner Toy Problem:
 Solution:
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
+CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
+Solution: https://repl.it/<br/>
 
 Wednesday:
 Beginner Toy Problem:
