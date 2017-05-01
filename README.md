@@ -121,8 +121,8 @@ Beginner Toy Problem: Complimentary DNA (7) https://repl.it/HU9s/1<br/>
 CodeWars URL: https://www.codewars.com/kata/complementary-dna <br/>
 Solution: https://repl.it/HUaE/1<br/>
 
-Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br />
-CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
+Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
+CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
 Solution: https://repl.it/<br/>
 
 **Tuesday:** <br />
@@ -130,9 +130,9 @@ Beginner Toy Problem: Mumbling (7) https://repl.it/HU9k/1 <br/>
 CodeWars URL: https://www.codewars.com/kata/mumbling <br/>
 Solution: https://repl.it/HU9p/1 <br/>
 
-Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
-CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
-Solution: https://repl.it/<br/>
+Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br />
+CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
+Solution: https://repl.it/HXra/5<br/>
 
 **Wednesday:** <br />
 Beginner Toy Problem: Next Perfect Square (7) https://repl.it/HUaY/1 <br />
@@ -141,7 +141,7 @@ Solution: https://repl.it/HUah/1
 
 Advanced Toy Problem: Caesar Cipher Helper https://repl.it/HOTZ<br />
 CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
-Solution: https://repl.it/
+Solution: https://repl.it/H9lR/5
 
 **Thursday:** <br />
 Beginner Toy Problem: Remove the Dubstep https://repl.it/H4lJ/0<br />
@@ -197,8 +197,8 @@ Tuesday:
 Beginner Toy Problem:
 Solution:
 
-Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
-CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
+Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
+CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
 Solution: https://repl.it/<br/>
 
 Wednesday:
