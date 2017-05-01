@@ -156,8 +156,9 @@ Solution: https://repl.it/H5SB/1
 <h1>Week 5</h1>
 
 Monday:
-Beginner Toy Problem:
-Solution:
+Beginner Toy Problem: (7) Simple Fun #20: First Reverse Try: https://repl.it/H9tn/1
+Solution: https://repl.it/H9tm/0
+Kata Link: https://www.codewars.com/kata/simple-fun-number-20-first-reverse-try/train/javascript
 
 Advanced Toy Problem: Sort an Array by Value and Index (7): https://repl.it/HS6E/0
 Solution: https://repl.it/HSWH/12
