@@ -156,20 +156,22 @@ Solution: https://repl.it/H5SB/1
 <h1>Week 5</h1>
 
 Monday:
-Beginner Toy Problem: Simple Fun #20: First Reverse Try: (7) https://repl.it/H9tn/1
-Solution: https://repl.it/H9tm/0
+Beginner Toy Problem: Simple Fun #20: First Reverse Try: (7) https://repl.it/H9tn/1 <br>
+Solution: https://repl.it/H9tm/0 <br>
 Kata Link: https://www.codewars.com/kata/simple-fun-number-20-first-reverse-try/train/javascript
 
-Advanced Toy Problem: RGB To Hex Conversion: (5) https://repl.it/HaRE/0
-Solution: https://repl.it/HaQz/0
+Advanced Toy Problem: RGB To Hex Conversion: (5) https://repl.it/HaRE/0<br>
+Solution: https://repl.it/HaQz/0<br>
 Kata Link: https://www.codewars.com/kata/rgb-to-hex-conversion/train/javascript
 
 Tuesday: 
-Beginner Toy Problem:  Sort an Array by Value and Index: (7) https://repl.it/HS6E/0
-Solution: https://repl.it/HSWH/12
+Beginner Toy Problem:  Sort an Array by Value and Index: (7) https://repl.it/HS6E/0<br>
+Solution: https://repl.it/HSWH/12 <br>
+Kata Link: https://www.codewars.com/kata/sort-an-array-by-value-and-index
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Convert A Hex String To RGB (5) : https://repl.it/HaSB/2 <br>
+Solution: https://repl.it/HaS4/1 <br>
+Kata Link: https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 
 Wednesday:
 Beginner Toy Problem:
