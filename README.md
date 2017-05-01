@@ -97,7 +97,7 @@ Solution: https://repl.it/HU6U/2<br/>
 
 **Wednesday:**<br/>
 Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0<br/>
-CodeWars URL: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
+CodeWars URL: https://www.codewars.com/kata/remove-the-minimum<br/>
 Solution: https://repl.it/GQal/1<br/>
 
 Advanced Toy Problem: Human Readable Time (5) https://repl.it/HU65/1<br/>
@@ -106,7 +106,7 @@ Solution: https://repl.it/HU6h/2<br/>
 
 **Thursday:**<br/>
 Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
-CodeWars URL: <br/>
+CodeWars URL: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
 Solution: https://repl.it/HO2a/2<br/>
 
 Advanced Toy Problem: Valid Parentheses (5) https://repl.it/HU6u/1 <br/>
@@ -130,9 +130,9 @@ Beginner Toy Problem: Mumbling (7) https://repl.it/HU9k/1 <br/>
 CodeWars URL: https://www.codewars.com/kata/mumbling <br/>
 Solution: https://repl.it/HU9p/1 <br/>
 
-Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
-CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
-Solution: https://repl.it/<br/>
+Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br />
+CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
+Solution: https://repl.it/HXra/5<br/>
 
 **Wednesday:** <br />
 Beginner Toy Problem: Next Perfect Square (7) https://repl.it/HUaY/1 <br />
@@ -141,15 +141,16 @@ Solution: https://repl.it/HUah/1
 
 Advanced Toy Problem: Caesar Cipher Helper https://repl.it/HOTZ<br />
 CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
-Solution: https://repl.it/
+Solution: https://repl.it/H9lR/5
 
 **Thursday:** <br />
-Beginner Toy Problem: <br />
-Solution:
+Beginner Toy Problem: Remove the Dubstep https://repl.it/H4lJ/0<br />
+CodeWars URL: https://www.codewars.com/kata/dubstep <br/>
+Solution: https://repl.it/H4lY/1
 
-Advanced Toy Problem: Double Cola https://repl.it/HOU1/1<br />
+Advanced Toy Problem: Double Cola https://repl.it/H5SJ/0<br />
 CodeWars URL: https://www.codewars.com/kata/double-cola<br/>
-Solution: https://repl.it/
+Solution: https://repl.it/H5SB/1
 
 
 <h1>Week 5</h1>
@@ -196,8 +197,9 @@ Tuesday:
 Beginner Toy Problem:
 Solution:
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
+CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
+Solution: https://repl.it/<br/>
 
 Wednesday:
 Beginner Toy Problem:
