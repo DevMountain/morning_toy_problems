@@ -119,7 +119,7 @@ Solution: https://repl.it/HU77/2<br/>
 **Monday:** <br />
 Beginner Toy Problem: Complimentary DNA (7) https://repl.it/HU9s/1<br/>
 CodeWars URL: https://www.codewars.com/kata/complementary-dna <br/>
-Solution: https://repl.it/HUaE/1<br/>
+Solution: https://repl.it/HUaE/16<br/>
 
 Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
 CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
