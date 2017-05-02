@@ -177,8 +177,9 @@ Wednesday:
 Beginner Toy Problem:
 Solution:
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Valid Parenthesis: (5) https://repl.it/HcD1/1 <br>
+Solution: https://repl.it/HcDN/0 <br>
+Kata Link: https://www.codewars.com/kata/valid-parentheses/train/javascript
 
 Thursday:
 Beginner Toy Problem:
