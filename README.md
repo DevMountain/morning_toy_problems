@@ -128,7 +128,7 @@ Solution: https://repl.it/<br/>
 **Tuesday:** <br />
 Beginner Toy Problem: Mumbling (7) https://repl.it/HU9k/1 <br/>
 CodeWars URL: https://www.codewars.com/kata/mumbling <br/>
-Solution: https://repl.it/HU9p/1 <br/>
+Solution: https://repl.it/HU9p/2 <br/>
 
 Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br />
 CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
