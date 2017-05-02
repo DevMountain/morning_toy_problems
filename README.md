@@ -12,63 +12,63 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 <h1>Week 1</h1>
 
 **Monday:**</br>
-Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1
+Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1 <br>
 Solution: https://repl.it/GQh4/1
 
 **Tuesday:**<br/>
-Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1
+Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1<br>
 Solution: https://repl.it/GQiG/1
 
-Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1
+Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1<br>
 Solution: https://repl.it/GQeg/2
 
 **Wednesday:**<br/>
-Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2
+Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2<br>
 Solution: https://repl.it/GQhl/1
 
-Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0
+Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0<br>
 Solution: https://repl.it/GQby/1
 
 **Thursday:**<br/>
-Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1
+Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1<br>
 Solution: https://repl.it/GQgY/2
 
-Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0
+Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0<br>
 Solution: https://repl.it/GQaq/2
 
 **Friday:**<br/>
-Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1
+Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1<br>
 Solution: https://repl.it/GQgA/2
 
-Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0
+Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0<br>
 Solution: https://repl.it/GQ7H/1
 
 
 <h1>Week 2</h1>
 
 **Monday:**<br/>
-Beginner Toy Problem: Find the nth number https://repl.it/HQr2/0<br/>
+Beginner Toy Problem: Find the nth number https://repl.it/HQr2/0 <br>
 Solution: https://repl.it/G8dd/3<br/>
 
-Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0<br/>
+Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0<br>
 Solution: https://repl.it/GQ7H/1<br/>
 
 **Tuesday:**<br/>
-Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0<br/>
+Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0<br>
 Solution: https://repl.it/GQe8/0<br/>
 
-Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1<br/>
+Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1<br>
 Solution:https://repl.it/G88l/0<br/>
 
 **Wednesday:**<br/>
-Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1<br/>
+Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1<br>
 Solution: https://repl.it/GQcF/1<br/>
 
 Advanced Toy Problem:<br/>
 Solution:<br/>
 
 **Thursday:**<br/>
-Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1<br/>
+Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1<br>
 Solution: https://repl.it/GQcu/1<br/>
 
 Advanced Toy Problem:<br/>
@@ -78,9 +78,9 @@ Solution:<br/>
 <h1>Week 3</h1>
 
 **Monday:**<br/>
-Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br/>
-CodeWars URL: <br/>
-Solution: https://repl.it/GQbf/2<br/>
+Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br>
+CodeWars URL: <br>
+Solution: https://repl.it/GQbf/2<br>
 
 Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br/>
 CodeWars URL: https://www.codewars.com/kata/simple-pig-latin<br/>
@@ -116,7 +116,7 @@ Solution: https://repl.it/HU77/2<br/>
 
 <h1>Week 4</h1>
 
-**Monday:** <br />
+**Monday:** <br>
 Beginner Toy Problem: Complimentary DNA (7) https://repl.it/HU9s/1<br/>
 CodeWars URL: https://www.codewars.com/kata/complementary-dna<br/>
 Solution: https://repl.it/HUaE/16<br/>
@@ -125,7 +125,7 @@ Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br/>
 CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br/>
 Solution: https://repl.it/<br/>
 
-**Tuesday:** <br />
+**Tuesday:** <br>
 Beginner Toy Problem: Mumbling (7) https://repl.it/HU9k/1 <br/>
 CodeWars URL: https://www.codewars.com/kata/mumbling <br/>
 Solution: https://repl.it/HU9p/2 <br/>
@@ -134,7 +134,7 @@ Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br/>
 CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
 Solution: https://repl.it/HXra/5<br/>
 
-**Wednesday:** <br />
+**Wednesday:** <br>
 Beginner Toy Problem: Next Perfect Square (7) https://repl.it/HUaY/1<br/>
 CodeWars URL: https://www.codewars.com/kata/find-the-next-perfect-square<br/>
 Solution: https://repl.it/HUah/1<br/>
@@ -143,7 +143,7 @@ Advanced Toy Problem: Caesar Cipher Helper https://repl.it/HOTZ<br/>
 CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
 Solution: https://repl.it/H9lR/5<br/>
 
-**Thursday:** <br />
+**Thursday:** <br>
 Beginner Toy Problem: Remove the Dubstep https://repl.it/H4lJ/0<br/>
 CodeWars URL: https://www.codewars.com/kata/dubstep <br/>
 Solution: https://repl.it/H4lY/1<br/>
