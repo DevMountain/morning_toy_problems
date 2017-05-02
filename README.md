@@ -64,15 +64,17 @@ Solution:https://repl.it/G88l/0<br/>
 Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1<br>
 Solution: https://repl.it/GQcF/1<br/>
 
-Advanced Toy Problem:<br/>
-Solution:<br/>
+Advanced Toy Problem: Counting Duplicates: (6) https://repl.it/HcXU/0<br/>
+Solution:  https://repl.it/HcXU/0 <br/>
+Kata Link: http://www.codewars.com/kata/counting-duplicates/train/javascript
 
 **Thursday:**<br/>
 Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1<br>
 Solution: https://repl.it/GQcu/1<br/>
 
-Advanced Toy Problem:<br/>
-Solution:<br/>
+Advanced Toy Problem: Selective Array Reversing : (6) https://repl.it/Hc47/1<br/>
+Solution: https://repl.it/Hc4r/1<br/>
+Kata Link: http://www.codewars.com/kata/selective-array-reversing/train/javascript
 
 
 <h1>Week 3</h1>
