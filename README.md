@@ -126,7 +126,6 @@ CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br/>
 Solution: https://repl.it/<br/>
 
 **Tuesday:** <br />
-
 Beginner Toy Problem: Mumbling (7) https://repl.it/HU9k/1 <br/>
 CodeWars URL: https://www.codewars.com/kata/mumbling <br/>
 Solution: https://repl.it/HU9p/2 <br/>
@@ -190,16 +189,8 @@ Solution:
 
 <h1>Week 6</h1>
 
-**Monday:**<br/>
-Beginner Toy Problem:
-Solution:
-
-Advanced Toy Problem: Next Bigger (4) https://repl.it/GQfQ/0 <br/>
-CodeWars URL: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
-Solution: https://repl.it/GQfV/0 <br/>
-
 Tuesday:
-Beginner Toy Problem:
+Beginner Toy Problem: 
 Solution:
 
 Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
@@ -221,3 +212,41 @@ Advanced Toy Problem:
 Solution:
 
 Miscellaneous Toy Problems
+
+<h1>Week 6</h1>
+
+**Monday:** <br/>
+Beginner Toy Problem: Printer Errors (7) https://repl.it/Hbvu/2<br/>
+CodeWars URL: https://www.codewars.com/kata/printer-errors<br/>
+Solution: https://repl.it/Hbwr/1<br/>
+
+Advanced Toy Problem: Square Matrix Multiplication (5) https://repl.it/HcEH/2<br/>
+CodeWars URL: https://www.codewars.com/kata/square-matrix-multiplication<br/>
+Solution: https://repl.it/HcEm/1<br/>
+
+**Tuesday:** <br/>
+Beginner Toy Problem: Investing (7) https://repl.it/Hbyi/1<br/>
+CodeWars URL: https://www.codewars.com/kata/money-money-money/train/javascript<br/>
+Solution: https://repl.it/Hbys/1<br/>
+
+Advanced Toy Problem: Binary Christmas Tree (5) https://repl.it/HcB5/1<br/>
+CodeWars URL: https://www.codewars.com/kata/valid-binary-christmas-tree<br/>
+Solution: https://repl.it/HcC7/1<br/>
+
+**Wednesday:** <br/>
+Beginner Toy Problem: Persistence (6) https://repl.it/Hbuk/1<br/>
+CodeWars URL: https://www.codewars.com/kata/persistent-bugger<br/>
+Solution: https://repl.it/Hbur/1<br/>
+
+Advanced Toy Problem: Liquid Density (5) https://repl.it/HcAp/1<br/>
+CodeWars URL: https://www.codewars.com/kata/dont-drink-the-water<br/>
+Solution: https://repl.it/HcAy/1<br/>
+
+**Thursday:** <br/>
+Beginner Toy Problem: Find the Divisors (6) https://repl.it/HbuF/1<br/>
+CodeWars URL: https://www.codewars.com/kata/find-the-divisors<br/>
+Solution: https://repl.it/HbuN/1<br/>
+
+Advanced Toy Problem: Next Bigger (4) https://repl.it/GQfQ/0 <br/>
+CodeWars URL: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
+Solution: https://repl.it/GQfV/0 <br/>
