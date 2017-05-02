@@ -174,16 +174,18 @@ Solution: https://repl.it/HaS4/1 <br>
 Kata Link: https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 
 Wednesday:
-Beginner Toy Problem:
-Solution:
+Beginner Toy Problem: Simple Fun #124: Lamps: (7) https://repl.it/HcPY/1 <br>
+Solution: https://repl.it/HcPP/1 <br>
+Kata Link: http://www.codewars.com/kata/simple-fun-number-124-lamps/train/javascript
 
 Advanced Toy Problem: Valid Parenthesis: (5) https://repl.it/HcD1/1 <br>
 Solution: https://repl.it/HcDN/0 <br>
 Kata Link: https://www.codewars.com/kata/valid-parentheses/train/javascript
 
 Thursday:
-Beginner Toy Problem:
-Solution:
+Beginner Toy Problem: ToLeetSpeak: (7) https://repl.it/HcPf/1 <br>
+Solution: https://repl.it/HcPi/1 <br>
+Kata Link: http://www.codewars.com/kata/toleetspeak
 
 Advanced Toy Problem: Guess The Gift!: (5) https://repl.it/HcN2/0 <br>
 Solution: https://repl.it/HcN4/1 <br>
