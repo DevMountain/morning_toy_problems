@@ -187,31 +187,6 @@ Solution:
 Advanced Toy Problem:
 Solution:
 
-<h1>Week 6</h1>
-
-Tuesday:
-Beginner Toy Problem: 
-Solution:
-
-Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
-CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
-Solution: https://repl.it/<br/>
-
-Wednesday:
-Beginner Toy Problem:
-Solution:
-
-Advanced Toy Problem:
-Solution:
-
-Thursday:
-Beginner Toy Problem:
-Solution:
-
-Advanced Toy Problem:
-Solution:
-
-Miscellaneous Toy Problems
 
 <h1>Week 6</h1>
 
