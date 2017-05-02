@@ -185,8 +185,9 @@ Thursday:
 Beginner Toy Problem:
 Solution:
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Guess The Gift!: (5) https://repl.it/HcN2/0 <br>
+Solution: https://repl.it/HcN4/1 <br>
+Kata Link: http://www.codewars.com/kata/52ae6b6623b443d9090002c8/train/javascript
 
 <h1>Week 6</h1>
 
