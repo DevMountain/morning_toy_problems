@@ -199,11 +199,11 @@ Kata Link: http://www.codewars.com/kata/52ae6b6623b443d9090002c8/train/javascrip
 **Monday:** <br/>
 Beginner Toy Problem: Printer Errors (7) https://repl.it/Hbvu/2<br/>
 CodeWars URL: https://www.codewars.com/kata/printer-errors<br/>
-Solution: https://repl.it/Hbwr/1<br/>
+Solution: https://repl.it/Hbwr/3<br/>
 
 Advanced Toy Problem: Square Matrix Multiplication (5) https://repl.it/HcEH/2<br/>
 CodeWars URL: https://www.codewars.com/kata/square-matrix-multiplication<br/>
-Solution: https://repl.it/HcEm/1<br/>
+Solution: https://repl.it/HcEm/2<br/>
 
 **Tuesday:** <br/>
 Beginner Toy Problem: Investing (7) https://repl.it/Hbyi/1<br/>
