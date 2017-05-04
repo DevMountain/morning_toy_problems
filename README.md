@@ -12,12 +12,14 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 <h1>Week 1</h1>
 
 **Monday:**</br>
-Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1 <br>
-Solution: https://repl.it/GQh4/1
+Beginner Toy Problem: Fizz Buzz (7) https://repl.it/HgiS/1 <br>
+Solution: https://repl.it/HgiJ/0 <br>
+Kata Link: https://www.codewars.com/kata/fizz-buzz/train/javascript
 
 **Tuesday:**<br/>
 Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1<br>
-Solution: https://repl.it/GQiG/1
+Solution: https://repl.it/GQiG/8 <br>
+Kata Link: https://www.codewars.com/kata/vowel-count/train/javascript
 
 Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1<br>
 Solution: https://repl.it/GQeg/2
@@ -30,7 +32,7 @@ Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0<br>
 Solution: https://repl.it/GQby/1
 
 **Thursday:**<br/
-Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1<br>
+Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1 <br>
 Solution: https://repl.it/GQgY/2
 
 Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0<br>
