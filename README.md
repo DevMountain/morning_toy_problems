@@ -29,7 +29,7 @@ Solution: https://repl.it/GQhl/1
 Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0<br>
 Solution: https://repl.it/GQby/1
 
-**Thursday:**<br/>
+**Thursday:**<br/
 Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1<br>
 Solution: https://repl.it/GQgY/2
 
