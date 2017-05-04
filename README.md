@@ -21,18 +21,20 @@ Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1<br>
 Solution: https://repl.it/GQiG/8 <br>
 Kata Link: https://www.codewars.com/kata/vowel-count/train/javascript
 
-Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1<br>
-Solution: https://repl.it/GQeg/2
+Advanced Toy Problem: Common Denominators (5) https://repl.it/GQea/1<br>
+Solution: https://repl.it/GQeg/2 <br>
+Kata Link: https://www.codewars.com/kata/common-denominators/train/javascript
 
 **Wednesday:**<br/>
-Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2<br>
-Solution: https://repl.it/GQhl/1
+Beginner Toy Problem: The iccanobiF Sequence (7) https://repl.it/GQh8/3<br>
+Solution: https://repl.it/GQhl/2 <br>
+Kata Link: https://www.codewars.com/kata/the-iccanobif-sequence/train/javascript
 
 Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0<br>
 Solution: https://repl.it/GQby/1
 
-**Thursday:**<br/
-Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1 <br>
+**Thursday:**<br/>
+Beginner Toy Problem: Its all in order (8) https://repl.it/GQgT/1 <br>
 Solution: https://repl.it/GQgY/2
 
 Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0<br>
