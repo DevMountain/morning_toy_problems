@@ -39,8 +39,9 @@ Beginner Toy Problem: Are the numbers in order? (7) https://repl.it/GQgT/4 <br>
 Solution: https://repl.it/GQgY/3 <br>
 Kata Link: https://www.codewars.com/kata/are-the-numbers-in-order/train/javascript
 
-Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0<br>
-Solution: https://repl.it/GQaq/2
+Advanced Toy Problem: Unleash the Camels (5) https://repl.it/Hin5/1<br>
+Solution: https://repl.it/GQaq/3 <br>
+Kata Link: https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript
 
 **Friday:**<br/>
 Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1<br>
