@@ -69,21 +69,23 @@ Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0<br>
 Solution: https://repl.it/GQe8/0<br/>
 Kata Link: https://www.codewars.com/kata/help-suzuki-rake-his-garden
 
-Advanced Toy Problem: Bubble Sort Algorithm ttps://repl.it/Hmxc/1<br>
+Advanced Toy Problem: Bubble Sort Algorithm (7)https://repl.it/Hmxc/1<br>
 Solution:https://repl.it/Hmx6/0<br/>
 Kata Link: https://www.codewars.com/kata/bubblesort-once/train/javascript
 
 **Wednesday:**<br/>
-Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1<br>
+Beginner Toy Problem: Disemvowel Trolls (7) https://repl.it/GQcE/8<br>
 Solution: https://repl.it/GQcF/1<br/>
+Kata Link: https://www.codewars.com/kata/52fba66badcd10859f00097e/solutions/javascript
 
 Advanced Toy Problem: Counting Duplicates: (6) https://repl.it/HcXU/0<br/>
 Solution:  https://repl.it/HcXU/0 <br/>
 Kata Link: http://www.codewars.com/kata/counting-duplicates/train/javascript
 
 **Thursday:**<br/>
-Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1<br>
-Solution: https://repl.it/GQcu/1<br/>
+Beginner oding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe (7) https://repl.it/HmzT/1<br>
+Solution: https://repl.it/Hmz0/1<br/>
+Kata Link: https://www.codewars.com/kata/coding-meetup-number-1-higher-order-functions-series-count-the-number-of-javascript-developers-coming-from-europe/javascript
 
 Advanced Toy Problem: Selective Array Reversing : (6) https://repl.it/Hc47/1<br/>
 Solution: https://repl.it/Hc4r/1<br/>
@@ -94,38 +96,38 @@ Kata Link: http://www.codewars.com/kata/selective-array-reversing/train/javascri
 
 **Monday:**<br/>
 Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0<br>
-CodeWars URL: <br>
+Kata Link: Not Applicable<br>
 Solution: https://repl.it/GQbf/2<br>
 
 Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br/>
-CodeWars URL: https://www.codewars.com/kata/simple-pig-latin<br/>
+Kata Link: https://www.codewars.com/kata/simple-pig-latin<br/>
 Solution: https://repl.it/GknA/1<br/>
 
 **Tuesday:**<br/>
 Beginner Toy Problem: Square Each Number (7) https://repl.it/HX9U/1<br/>
-CodeWars URL: https://www.codewars.com/kata/square-every-digit<br/>
+Kata Link: https://www.codewars.com/kata/square-every-digit<br/>
 Solution: https://repl.it/HX9o/0<br/>
 
 Advanced Toy Problem: 30 Character Countdown (5) https://repl.it/HU6J/1<br/>
-CodeWars URL: https://www.codewars.com/kata/one-line-task-count-down-i<br/>
+Kata Link: https://www.codewars.com/kata/one-line-task-count-down-i<br/>
 Solution: https://repl.it/HU6U/2<br/>
 
 **Wednesday:**<br/>
 Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0<br/>
-CodeWars URL: https://www.codewars.com/kata/remove-the-minimum<br/>
+Kata Link: https://www.codewars.com/kata/remove-the-minimum<br/>
 Solution: https://repl.it/GQal/1<br/>
 
 Advanced Toy Problem: Human Readable Time (5) https://repl.it/HU65/1<br/>
-CodeWars URL: https://www.codewars.com/kata/human-readable-time<br/>
+Kata Link: https://www.codewars.com/kata/human-readable-time<br/>
 Solution: https://repl.it/HU6h/2<br/>
 
 **Thursday:**<br/>
 Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
-CodeWars URL: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
+Kata Link: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
 Solution: https://repl.it/HO2a/2<br/>
 
 Advanced Toy Problem: Valid Parentheses (5) https://repl.it/HU6u/1 <br/>
-CodeWars URL: https://www.codewars.com/kata/valid-parentheses<br/>
+Kata Link: https://www.codewars.com/kata/valid-parentheses<br/>
 Solution: https://repl.it/HU77/2<br/>
 
 
@@ -133,38 +135,38 @@ Solution: https://repl.it/HU77/2<br/>
 
 **Monday:** <br>
 Beginner Toy Problem: Complimentary DNA (7) https://repl.it/HU9s/1<br/>
-CodeWars URL: https://www.codewars.com/kata/complementary-dna<br/>
+Kata Link: https://www.codewars.com/kata/complementary-dna<br/>
 Solution: https://repl.it/HUaE/16<br/>
 
 Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br/>
-CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br/>
+Kata Link: https://www.codewars.com/kata/rpg-dice-roller<br/>
 Solution: https://repl.it/<br/>
 
 **Tuesday:** <br>
 Beginner Toy Problem: Mumbling (7) https://repl.it/HU9k/1 <br/>
-CodeWars URL: https://www.codewars.com/kata/mumbling <br/>
+Kata Link: https://www.codewars.com/kata/mumbling <br/>
 Solution: https://repl.it/HU9p/2 <br/>
 
 Advanced Toy Problem: Directions Reduction https://repl.it/HXqx/1<br/>
-CodeWars URL: https://www.codewars.com/kata/directions-reduction<br/>
+Kata Link: https://www.codewars.com/kata/directions-reduction<br/>
 Solution: https://repl.it/HXra/5<br/>
 
 **Wednesday:** <br>
 Beginner Toy Problem: Next Perfect Square (7) https://repl.it/HUaY/1<br/>
-CodeWars URL: https://www.codewars.com/kata/find-the-next-perfect-square<br/>
+Kata Link: https://www.codewars.com/kata/find-the-next-perfect-square<br/>
 Solution: https://repl.it/HUah/1<br/>
 
 Advanced Toy Problem: Caesar Cipher Helper https://repl.it/HOTZ<br/>
-CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
+Kata Link: https://www.codewars.com/kata/caesar-cipher-helper<br/>
 Solution: https://repl.it/H9lR/5<br/>
 
 **Thursday:** <br>
 Beginner Toy Problem: Remove the Dubstep https://repl.it/H4lJ/0<br/>
-CodeWars URL: https://www.codewars.com/kata/dubstep <br/>
+Kata Link: https://www.codewars.com/kata/dubstep <br/>
 Solution: https://repl.it/H4lY/1<br/>
 
 Advanced Toy Problem: Double Cola https://repl.it/H5SJ/0<br/>
-CodeWars URL: https://www.codewars.com/kata/double-cola<br/>
+Kata Link: https://www.codewars.com/kata/double-cola<br/>
 Solution: https://repl.it/H5SB/1<br/>
 
 
@@ -211,36 +213,36 @@ Kata Link: http://www.codewars.com/kata/52ae6b6623b443d9090002c8/train/javascrip
 
 **Monday:** <br/>
 Beginner Toy Problem: Printer Errors (7) https://repl.it/Hbvu/2<br/>
-CodeWars URL: https://www.codewars.com/kata/printer-errors<br/>
+Kata Link: https://www.codewars.com/kata/printer-errors<br/>
 Solution: https://repl.it/Hbwr/1<br/>
 
 Advanced Toy Problem: Square Matrix Multiplication (5) https://repl.it/HcEH/2<br/>
-CodeWars URL: https://www.codewars.com/kata/square-matrix-multiplication<br/>
+Kata Link: https://www.codewars.com/kata/square-matrix-multiplication<br/>
 Solution: https://repl.it/HcEm/1<br/>
 
 **Tuesday:** <br/>
 Beginner Toy Problem: Investing (7) https://repl.it/Hbyi/1<br/>
-CodeWars URL: https://www.codewars.com/kata/money-money-money/train/javascript<br/>
+Kata Link: https://www.codewars.com/kata/money-money-money/train/javascript<br/>
 Solution: https://repl.it/Hbys/1<br/>
 
 Advanced Toy Problem: Binary Christmas Tree (5) https://repl.it/HcB5/1<br/>
-CodeWars URL: https://www.codewars.com/kata/valid-binary-christmas-tree<br/>
+Kata Link: https://www.codewars.com/kata/valid-binary-christmas-tree<br/>
 Solution: https://repl.it/HcC7/1<br/>
 
 **Wednesday:** <br/>
 Beginner Toy Problem: Persistence (6) https://repl.it/Hbuk/1<br/>
-CodeWars URL: https://www.codewars.com/kata/persistent-bugger<br/>
+Kata Link: https://www.codewars.com/kata/persistent-bugger<br/>
 Solution: https://repl.it/Hbur/1<br/>
 
 Advanced Toy Problem: Liquid Density (5) https://repl.it/HcAp/1<br/>
-CodeWars URL: https://www.codewars.com/kata/dont-drink-the-water<br/>
+Kata Link: https://www.codewars.com/kata/dont-drink-the-water<br/>
 Solution: https://repl.it/HcAy/1<br/>
 
 **Thursday:** <br/>
 Beginner Toy Problem: Find the Divisors (6) https://repl.it/HbuF/1<br/>
-CodeWars URL: https://www.codewars.com/kata/find-the-divisors<br/>
+Kata Link: https://www.codewars.com/kata/find-the-divisors<br/>
 Solution: https://repl.it/HbuN/1<br/>
 
 Advanced Toy Problem: Next Bigger (4) https://repl.it/GQfQ/0 <br/>
-CodeWars URL: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
+Kata Link: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
 Solution: https://repl.it/GQfV/0 <br/>
