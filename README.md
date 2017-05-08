@@ -237,7 +237,7 @@ Advanced Toy Problem: Next Bigger (4) https://repl.it/GQfQ/0 <br/>
 Kata Link: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
 Solution: https://repl.it/GQfV/0 <br/>
 
-**Extra Toy Problems**
+<h1>Extra Toy Problems</h1>
 
 
 Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) https://repl.it/Hiow/1<br>
