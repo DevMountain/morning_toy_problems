@@ -43,16 +43,6 @@ Advanced Toy Problem: Convert string to camel case (5) https://repl.it/Hin5/1<br
 Solution: https://repl.it/GQaq/3 <br>
 Kata Link: https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript
 
-**Friday:**<br/>
-Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) https://repl.it/Hiow/1<br>
-Solution: https://repl.it/Hiot/0 <br>
-Kata Link: https://www.codewars.com/kata/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/javascript
-
-Advanced Toy Problem: String incrementer (5) https://repl.it/GQ7E/0<br>
-Solution: https://repl.it/GQ7H/1 <br>
-Kata Link: https://www.codewars.com/kata/string-incrementer/train/javascript
-
-
 <h1>Week 2</h1>
 
 **Monday:**<br/>
@@ -69,7 +59,7 @@ Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0<br>
 Solution: https://repl.it/GQe8/0<br/>
 Kata Link: https://www.codewars.com/kata/help-suzuki-rake-his-garden
 
-Advanced Toy Problem: Bubble Sort Algorithm (7)https://repl.it/Hmxc/1<br>
+Advanced Toy Problem: Bubblesort Once (7)https://repl.it/Hmxc/1<br>
 Solution:https://repl.it/Hmx6/0<br/>
 Kata Link: https://www.codewars.com/kata/bubblesort-once/train/javascript
 
@@ -126,9 +116,9 @@ Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
 Kata Link: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
 Solution: https://repl.it/HO2a/2<br/>
 
-Advanced Toy Problem: Valid Parentheses (5) https://repl.it/HU6u/1 <br/>
-Kata Link: https://www.codewars.com/kata/valid-parentheses<br/>
-Solution: https://repl.it/HU77/2<br/>
+Advanced Toy Problem: String incrementer (5) https://repl.it/GQ7E/0<br>
+Solution: https://repl.it/GQ7H/1 <br>
+Kata Link: https://www.codewars.com/kata/string-incrementer/train/javascript
 
 
 <h1>Week 4</h1>
@@ -187,7 +177,7 @@ Solution: https://repl.it/HSWH/12 <br>
 Kata Link: https://www.codewars.com/kata/sort-an-array-by-value-and-index
 
 Advanced Toy Problem: Convert A Hex String To RGB (5) : https://repl.it/HaSB/2 <br>
-Solution: https://repl.it/HaS4/1 <br>
+Solution: https://repl.it/HaS4/3 <br>
 Kata Link: https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 
 Wednesday:
@@ -246,3 +236,12 @@ Solution: https://repl.it/HbuN/1<br/>
 Advanced Toy Problem: Next Bigger (4) https://repl.it/GQfQ/0 <br/>
 Kata Link: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
 Solution: https://repl.it/GQfV/0 <br/>
+
+**Extra Toy Problems**
+
+
+Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) https://repl.it/Hiow/1<br>
+Solution: https://repl.it/Hiot/0 <br>
+Kata Link: https://www.codewars.com/kata/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/javascript
+
+
