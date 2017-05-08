@@ -56,18 +56,22 @@ Kata Link: https://www.codewars.com/kata/string-incrementer/train/javascript
 <h1>Week 2</h1>
 
 **Monday:**<br/>
-Beginner Toy Problem: Find the nth number https://repl.it/HQr2/0 <br>
-Solution: https://repl.it/G8dd/3<br/>
+Beginner Toy Problem:noobCode 01: SUPERSIZE ME.... or rather, this integer! (8) https://repl.it/HQr2/1 <br>
+Solution: https://repl.it/Hmq0/0<br/>
+Kata Link: https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript
 
-Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0<br>
-Solution: https://repl.it/GQ7H/1<br/>
+Advanced Toy Problem: Generate HTML links(7) https://repl.it/Hmrt/1<br>
+Solution: https://repl.it/HmsB/1<br/>
+Kata Link: https://www.codewars.com/kata/generate-html-links/train/javascript
 
 **Tuesday:**<br/>
 Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0<br>
 Solution: https://repl.it/GQe8/0<br/>
+Kata Link: https://www.codewars.com/kata/help-suzuki-rake-his-garden
 
-Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1<br>
-Solution:https://repl.it/G88l/0<br/>
+Advanced Toy Problem: Bubble Sort Algorithm ttps://repl.it/Hmxc/1<br>
+Solution:https://repl.it/Hmx6/0<br/>
+Kata Link: https://www.codewars.com/kata/bubblesort-once/train/javascript
 
 **Wednesday:**<br/>
 Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1<br>
