@@ -12,26 +12,32 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 <h1>Week 1</h1>
 
 **Monday:**</br>
-Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1 <br>
-Solution: https://repl.it/GQh4/1
+Beginner Toy Problem: Fizz Buzz (7) https://repl.it/HgiS/1 <br>
+Solution: https://repl.it/HgiJ/0 <br>
+Kata Link: https://www.codewars.com/kata/fizz-buzz/train/javascript
 
 **Tuesday:**<br/>
 Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1<br>
-Solution: https://repl.it/GQiG/1
+Solution: https://repl.it/GQiG/8 <br>
+Kata Link: https://www.codewars.com/kata/vowel-count/train/javascript
 
-Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1<br>
-Solution: https://repl.it/GQeg/2
+Advanced Toy Problem: Common Denominators (5) https://repl.it/GQea/1<br>
+Solution: https://repl.it/GQeg/2 <br>
+Kata Link: https://www.codewars.com/kata/common-denominators/train/javascript
 
 **Wednesday:**<br/>
-Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2<br>
-Solution: https://repl.it/GQhl/1
+Beginner Toy Problem: The iccanobiF Sequence (7) https://repl.it/GQh8/3<br>
+Solution: https://repl.it/GQhl/2 <br>
+Kata Link: https://www.codewars.com/kata/the-iccanobif-sequence/train/javascript
 
-Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0<br>
-Solution: https://repl.it/GQby/1
+Advanced Toy Problem: Pete, the baker (5) https://repl.it/GQbv/9<br>
+Solution: https://repl.it/GQby/3 <br>
+Kata Link: https://www.codewars.com/kata/pete-the-baker/train/javascript
 
-**Thursday:**<br/
-Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1<br>
-Solution: https://repl.it/GQgY/2
+**Thursday:**<br/>
+Beginner Toy Problem: Are the numbers in order? (7) https://repl.it/GQgT/4 <br>
+Solution: https://repl.it/GQgY/3 <br>
+Kata Link: https://www.codewars.com/kata/are-the-numbers-in-order/train/javascript
 
 Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0<br>
 Solution: https://repl.it/GQaq/2
