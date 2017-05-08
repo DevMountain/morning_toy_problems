@@ -39,16 +39,18 @@ Beginner Toy Problem: Are the numbers in order? (7) https://repl.it/GQgT/4 <br>
 Solution: https://repl.it/GQgY/3 <br>
 Kata Link: https://www.codewars.com/kata/are-the-numbers-in-order/train/javascript
 
-Advanced Toy Problem: Unleash the Camels (5) https://repl.it/Hin5/1<br>
+Advanced Toy Problem: Convert string to camel case (5) https://repl.it/Hin5/1<br>
 Solution: https://repl.it/GQaq/3 <br>
 Kata Link: https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript
 
 **Friday:**<br/>
-Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1<br>
-Solution: https://repl.it/GQgA/2
+Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) hhttps://repl.it/Hiow/1<br>
+Solution: hhttps://repl.it/Hiot/0 <br>
+Kata Link: https://www.codewars.com/kata/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/javascript
 
-Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0<br>
-Solution: https://repl.it/GQ7H/1
+Advanced Toy Problem: String incrementer (5) https://repl.it/GQ7E/0<br>
+Solution: https://repl.it/GQ7H/1 <br>
+Kata Link: https://www.codewars.com/kata/string-incrementer/train/javascript
 
 
 <h1>Week 2</h1>
