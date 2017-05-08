@@ -44,8 +44,8 @@ Solution: https://repl.it/GQaq/3 <br>
 Kata Link: https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript
 
 **Friday:**<br/>
-Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) hhttps://repl.it/Hiow/1<br>
-Solution: hhttps://repl.it/Hiot/0 <br>
+Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) https://repl.it/Hiow/1<br>
+Solution: https://repl.it/Hiot/0 <br>
 Kata Link: https://www.codewars.com/kata/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/javascript
 
 Advanced Toy Problem: String incrementer (5) https://repl.it/GQ7E/0<br>
