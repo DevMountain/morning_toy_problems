@@ -190,8 +190,8 @@ Solution: https://repl.it/HcDN/0 <br>
 Kata Link: https://www.codewars.com/kata/valid-parentheses/train/javascript
 
 Thursday:
-Beginner Toy Problem: ToLeetSpeak: (7) https://repl.it/HcPf/1 <br>
-Solution: https://repl.it/HcPi/1 <br>
+Beginner Toy Problem: ToLeetSpeak: (7) https://repl.it/HcPf/25 <br>
+Solution: https://repl.it/HcPi/3 <br>
 Kata Link: http://www.codewars.com/kata/toleetspeak
 
 Advanced Toy Problem: Guess The Gift!: (5) https://repl.it/HcN2/0 <br>
