@@ -1,4 +1,4 @@
-<h1>DM18-Toy-Problems</h1>
+<h1>DM22-Toy-Problems</h1>
 
 This repository is for the storage of and reference to toy problems for use in DevMountain's morning toy problem workshops.
 
@@ -208,7 +208,7 @@ Solution: https://repl.it/Hbwr/1<br/>
 
 Advanced Toy Problem: Square Matrix Multiplication (5) https://repl.it/HcEH/2<br/>
 Kata Link: https://www.codewars.com/kata/square-matrix-multiplication<br/>
-Solution: https://repl.it/HcEm/1<br/>
+Solution: https://repl.it/HcEm/5<br/>
 
 **Tuesday:** <br/>
 Beginner Toy Problem: Investing (7) https://repl.it/Hbyi/1<br/>
