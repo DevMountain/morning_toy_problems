@@ -73,7 +73,7 @@ Solution: https://repl.it/Hmz0/1<br/>
 Kata Link: https://www.codewars.com/kata/coding-meetup-number-1-higher-order-functions-series-count-the-number-of-javascript-developers-coming-from-europe/javascript </br>
 
 <h2>Thursday:</h2><br/>
-<b>Beginner Toy Problem</b>: Remove the Dubstep https://repl.it/H4lJ/0<br/>
+<b>Beginner Toy Problem</b>: Remove the Dubstep (6) https://repl.it/H4lJ/0<br/>
 Kata Link: https://www.codewars.com/kata/dubstep <br/>
 Solution: https://repl.it/H4lY/1<br/>
 
@@ -193,14 +193,14 @@ Solution: https://repl.it/HcAy/1<br/>
 Solution: https://repl.it/HcPP/1 <br>
 Kata Link: http://www.codewars.com/kata/simple-fun-number-124-lamps/train/javascript
 
-<b>Advanced Toy Problem</b>: RPG Dice Roller https://repl.it/HOTI/1<br/>
+<b>Advanced Toy Problem</b>: RPG Dice Roller (5) https://repl.it/HOTI/1<br/>
 Kata Link: https://www.codewars.com/kata/rpg-dice-roller<br/>
 Solution: https://repl.it/<br/>
 
 <h1>Week 6</h1>
 
 <h2>Monday: </h2><br/>
-<b>Beginner Toy Problem</b>: Caesar Cipher Helper https://repl.it/HOTZ<br/>
+<b>Beginner Toy Problem</b>: Caesar Cipher Helper (5) https://repl.it/HOTZ<br/>
 Kata Link: https://www.codewars.com/kata/caesar-cipher-helper<br/>
 Solution: https://repl.it/H9lR/5<br/>
 
@@ -227,7 +227,7 @@ Kata Link: https://www.codewars.com/kata/find-the-divisors<br/>
 Solution: https://repl.it/HbuN/1<br/>
 
 <h2>Thursday: </h2><br/>
-<b>Beginner Toy Problem</b>: Double Cola https://repl.it/H5SJ/0<br/>
+<b>Beginner Toy Problem</b>: Double Cola (5) https://repl.it/H5SJ/0<br/>
 Kata Link: https://www.codewars.com/kata/double-cola<br/>
 Solution: https://repl.it/H5SB/1<br/>
 
