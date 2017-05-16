@@ -213,7 +213,7 @@ Solution: https://repl.it/HcEm/5<br/>
 **Tuesday:** <br/>
 Beginner Toy Problem: Investing (7) https://repl.it/Hbyi/1<br/>
 Kata Link: https://www.codewars.com/kata/money-money-money/train/javascript<br/>
-Solution: https://repl.it/Hbys/1<br/>
+Solution: https://repl.it/Hbys/3<br/>
 
 Advanced Toy Problem: Binary Christmas Tree (5) https://repl.it/HcB5/1<br/>
 Kata Link: https://www.codewars.com/kata/valid-binary-christmas-tree<br/>
