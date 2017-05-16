@@ -179,7 +179,7 @@ Solution: https://repl.it/HUah/1<br/>
 Solution: https://repl.it/GQeg/2 <br>
 Kata Link: https://www.codewars.com/kata/common-denominators/train/javascript
 
-<h2>Wednesday:<h2><br>
+<h2>Wednesday:</h2><br>
 <b>Beginner Toy Problem</b>: Mumbling (7) https://repl.it/HU9k/1 <br/>
 Kata Link: https://www.codewars.com/kata/mumbling <br/>
 Solution: https://repl.it/HU9p/2 <br/>
