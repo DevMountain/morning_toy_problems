@@ -224,7 +224,7 @@ Solution: https://repl.it/Hbur/1<br/>
 
 <b>Advanced Toy Problem</b>: Find the Divisors (6) https://repl.it/HbuF/1<br/>
 Kata Link: https://www.codewars.com/kata/find-the-divisors<br/>
-Solution: https://repl.it/HbuN/1<br/>
+Solution: https://repl.it/HbuN/3<br/>
 
 <h2>Thursday: </h2><br/>
 <b>Beginner Toy Problem</b>: Double Cola (5) https://repl.it/H5SJ/0<br/>
