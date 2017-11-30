@@ -48,7 +48,7 @@ Kata Link: https://www.codewars.com/kata/help-suzuki-rake-his-garden <br>
 <h2>Monday:</h2><br/>
 <b>Beginner Toy Problem</b>: Disemvowel Trolls (7) https://repl.it/GQcE/8<br>
 Solution: https://repl.it/GQcF/1<br/>
-Kata Link: https://www.codewars.com/kata/52fba66badcd10859f00097e/solutions/javascript<br>
+Kata Link: https://www.codewars.com/kata/disemvowel-trolls/javascript<br>
 
 <b>Advanced Toy Problem</b>: Alpha Beta (7) https://repl.it/GQbb/0<br>
 Kata Link: Not Applicable<br>
@@ -168,7 +168,7 @@ Kata Link: https://www.codewars.com/kata/valid-parentheses/train/javascript <br>
 
 <b>Advanced Toy Problem</b>: Guess The Gift!: (5) https://repl.it/HcN2/0 <br>
 Solution: https://repl.it/HcN4/1 <br>
-Kata Link: http://www.codewars.com/kata/52ae6b6623b443d9090002c8/train/javascript
+Kata Link: https://www.codewars.com/kata/guess-the-gifts
 
 <h2>Tuesday:</h2><br> 
 <b>Beginner Toy Problem</b>: Next Perfect Square (7) https://repl.it/HUaY/1<br/>
